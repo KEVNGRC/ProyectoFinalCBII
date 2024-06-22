@@ -1,0 +1,353 @@
+<html>
+
+<head>
+
+<title> Tablas</title>
+
+</head>
+
+<body background="background.jpg">
+
+<table>
+<tr>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4>
+<tr>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red>
+<tr>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4>
+<tr>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5>
+<tr>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5>
+<tr bgcolor=pink>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<tr bgcolor=pink>
+<td>Col1Fil1</td>
+<td>Col2Fil1</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td>Col1Fil2</td>
+<td>Col2Fil2</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td>Col1Fil3</td>
+<td>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<tr bgcolor=pink>
+<td > Cecyt 3</td>
+<td bgcolor=skyblue >Estanislao Ramirez Ruiz</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td>Computacion</td>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td>Col1Fil3</td>
+<td bgcolor=f7fe2e>Col2Fil3</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<td > Cecyt 3</td>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td>Computacion</td>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td>Segundo</td>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th> Cecyt 3</th>
+<th bgcolor=skyblue >Estanislao R R</th>
+</tr>
+
+<tr bgcolor=cyan>
+<td>Computacion</td>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td>Segundo</td>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th> Cecyt 3</th>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<th>Computacion</th>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<th>Segundo</th>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th colspan=2> Cecyt 3</th>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<th>Computacion</th>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<th>Segundo</th>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th colspan=2> Cecyt 3</th>
+</tr>
+
+<tr bgcolor=cyan>
+<th>Computacion</th>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<th>Segundo</th>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th rowspan=3> Cecyt 3</th>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<th>Computacion</th>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<th>Segundo</th>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th rowspan=3> Cecyt 3</th>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=4 bordercolor=red cellpadding=4 cellspacing=5 bgcolor=80FF00>
+<caption> Mi primer tabla </caption>
+<tr bgcolor=pink>
+<th rowspan=3> <img src="logo.png" width="100px"></th>
+<td bgcolor=skyblue >Estanislao R R</td>
+</tr>
+
+<tr bgcolor=cyan>
+<td bgcolor =fe2ef7>Basica II</td>
+</tr>
+
+<tr bgcolor=lightgreen>
+<td bgcolor=f7fe2e>Semestre</td>
+</tr>
+</table>
+
+<br><br><br><br>
+
+<table border=5 bordercolor=blue cellpadding=4 cellspacing=4 bg color=blue >
+<caption> Mi Serie Animada Favorita </caption>
+<tr bgcolor="#4CAF50">
+<th colspan="3" style="color: white;"> Bob Esponja</th>
+</tr>
+<tr>
+<td rowspan="3" bgcolor="#f2f2f2" align="center">
+<a href="https://es.wikipedia.org/wiki/Bob_Esponja" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" alt="Bob Esponja" width="150">
+ </a>
+</td>
+<td colspan="2" bgcolor="#ffebcd">Bob Esponja Pantalones Cuadrados es una serie de televisión animada estadounidense creada por el biólogo marino y animador Stephen Hillenburg para Nickelodeon.</td>
+</tr>
+<tr bgcolor="#4CAF50">
+<th colspan="2" style="color: white;">Personajes principales</th>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#add8e6">
+<ul>
+ <li>Bob Esponja</li>
+<li>Patricio Estrella</li>
+<li>Calamardo Tentáculos</li>
+ <li>Arenita Mejillas</li>
+ <li>Don Cangrejo</li>
+</ul>
+ </td>
+</tr>
+   </table>
+
+
+</body>
+</html>
+
+<hr size="5" color="red">
+
+<marquee behavior="alternate" bgcolor="D8D8D8" scrollamount="20"> Kevin Yamil Suarez Garcia 2IM6</marquee></li><br><br>

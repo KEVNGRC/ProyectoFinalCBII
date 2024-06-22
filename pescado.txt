@@ -1,0 +1,61 @@
+<html>
+<head>
+   
+    <title>Pescado Fresco</title>
+</head>
+<body bgcolor="Lime">
+
+<marquee behavior="alternate" direction="left" scrollamount="10">
+    <h1 style="color: olive;">PESCADO FRESCO</h1>
+</marquee>
+
+
+<p align=right>Los japoneses siempre han gustado del pescado fresco. Pero las aguas cercanas a Japón no han tenido muchos peces por décadas. Así que para alimentar a la población japonesa, los barcos pesqueros fueron fabricados más grandes para ir mar adentro.</p>
+
+<p style="text-align: center; text-decoration: underline;">Mientras más lejos iban los pescadores, más era el tiempo que les tomaba regresar a entregar el pescado. Si el viaje tomaba varios días, el pescado ya no estaba fresco.</p>
+
+<p style="text-align: justify; font-style: italic;">Para resolver el problema, las compañías instalaron congeladores en los barcos pesqueros. Así podían pescar y poner los pescados en los congeladores. Sin embargo, los japoneses pudieron notar la diferencia entre el pescado congelado y el fresco y no les gustaba el congelado; al que tenía, también, el que tenía, también, también, también.</p>
+
+<p align= center>Las compañías entonces instalaron tanques para los peces vivos en los barcos. Podían así pescar y poner los peces en los tanques y mantenerse vivos hasta llegar a la costa. Pero después de un tiempo, los japoneses pudieron notar la diferencia entre el pescado fresco y el pescado fresco.</p>
+
+<p style="font-weight: bold; text-align: center;">Si las compañías japonesas te pidieran asesoría, ¿Qué les recomendarías?</p>
+
+<div style="text-align: center;">
+    <img src="Ff1.jpg" alt="Imagen cualquiera pequeña y derecha" width="180">
+</div>
+
+
+<p style="text-indent: 20px;">Para mantener el sabor fresco de los peces, las compañías pesqueras ponen a los peces en los tanques en los botes, pero ahora ponen también un tiburón pequeño.</p>
+<hr color="blue" size="3" width="10%" align="right">
+
+<p style="text-indent: 40px;"><blockquote>Claro que el tiburón se come algunos peces, pero los demás llegan muy, pero muy vivos. ¡Los peces están desafiados! Tienen que nadar durante todo el trayecto dentro del tanque para mantenerse vivos.</blockquote></p>
+<hr color="red" size="4" width="20%" align="right">
+
+<p style="text-indent: 60px;"><blockquote><blockquote>Cuando alcances tus metas propone otras mayores. Nunca debes crear el éxito para luego acostarte en él.</blockquote></blockquote></p>
+<hr color="orange" size="5" width="30%" align="right">
+
+<p style="text-indent: 80px;"><blockquote><blockquote><blockquote>Así que invita a un “Tiburón a tu tanque” y descubre qué tan lejos realmente puedes llegar.</blockquote></blockquote></blockquote></p>
+<hr color="purple" size="6" width="40%" align="right">
+
+<p style="text-indent: 100px;"><blockquote><blockquote><blockquote><blockquote>Unos cuantos “tiburones” te harán conocer tu potencial, que no te asusten sus “dientes ni sus trampas”, tú sigue alerta, pero siempre “fresco”.</blockquote></blockquote></blockquote></blockquote></p>
+<hr color="brown" size="7" width="50%" align="right">
+
+<p style="text-indent: 120px;"><blockquote><blockquote><blockquote><blockquote><blockquote>Siempre habrá tiburones a donde vayas.</blockquote></blockquote></blockquote></blockquote></blockquote></p>
+<hr color="silver" size="8" width="60%" align="right">
+
+
+<div style="text-align: right;">
+    <img src="F2.jpg" alt="Imagen cualquiera pequeña y derecha" width="180">
+</div>
+
+
+<marquee direction="up" style="background-color: pink;">
+    <p style="text-decoration: line-through; color: purple; font-size: larger;">Estamos todos en el mismo sitio, donde siempre tendremos dificultades y ellas serán bienvenidas si lo sabemos mirar como las oportunidades para encontrar nuevos caminos, para escuchar otras opciones, para aprender nuevas maneras de ver la vida, para fortalecer nuestro espíritu y sacar lo mejor de nosotros mismos.</p>
+</marquee>
+
+<hr size=7 color="red"> <marquee behavior="alternate" bgcolor="E6E6E6" scrollamount="20">SUAREZ GARCIA KEVIN YAMIL 2IM6 </marquee>
+
+
+</body>
+</html>
+

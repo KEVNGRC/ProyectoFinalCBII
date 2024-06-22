@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Tablas</title>
+</head>
+
+<body background="1885915_a14b0.gif">
+    <font face="PAPYRUS">
+    
+    <table border="4" bordercolor="red" cellpadding="4" cellspacing="5" bgcolor="80FF00">
+        <tr bgcolor="snow">
+            <th colspan="6">
+                <h1 style="color:darkred;">CONTINENTES</h1>
+            </th>
+        </tr>
+        <tr>
+            <th bgcolor="PaleGreen"><h3 style="color:LimeGreen"><a href="https://es.wikipedia.org/wiki/Am%C3%A9rica"/" target="_blank" >America</a></h3></th>
+            <th bgcolor="violet"><h3 style="color:turquoise"><a href="https://es.wikipedia.org/wiki/Europa"/" target="_blank" >Europa</a></h3></th>
+            <th bgcolor="sienna"><h3 style="color:salmon"><a href="https://es.wikipedia.org/wiki/Asia"/" target="_blank" >Asia</a></h3></th>
+            <th bgcolor="yellowgreen"><h3 style="color:wheat"><a href="https://es.wikipedia.org/wiki/%C3%81frica"/" target="_blank" >Africa</a></h3></th>
+            <th bgcolor="lightskyblue"><h3 style="color:orchid"><a href="https://es.wikipedia.org/wiki/Ocean%C3%ADa"/" target="_blank" >Oceania</a></h3></th>
+            <th bgcolor="darkgray"><h3 style="color:cyan"><a href="https://es.wikipedia.org/wiki/Ant%C3%A1rtida"/" target="_blank" >Antartida</a></h3></th>
+        </tr>
+        <tr>
+            <td bgcolor="PaleGreen" style="color:LimeGreen"><ol type="1"><li>Canada<li>Belice<li>Nicaragua<li>Venezuela<li>Chile</ol></td>
+            <td bgcolor="violet" style="color:turquoise"><ul type="disc"><li>Bulgaria<li>Dinamarca<li>Noruega<li>Ucrania<li>Irlanda</ul></td>
+            <td bgcolor="sienna" style="color:salmon"><ol type="A"><li>Filipinas<li>Armenia<li>Bimaria<li>Malasia<li>Vietnam</ol></td>
+            <td bgcolor="yellowgreen" style="color:wheat"><ul type="square"><li>Ghana<li>Angolas<li>Zimbabue<li>Uganda<li>Kenia</ul></td>
+            <td bgcolor="lightskyblue" style="color:orchid"><ol type="I"><li>Fiti<li>Nauru<li>Tonga<li>Nueva Zelanda<li>Palaos</ol></td>
+            <td bgcolor="darkgray" style="color:cyan"><ul type="circle"><li>La Antartida Argentina(Argentina)<li>La dependencia Rosas(Nueva Zelanda)<li>Adelia Land(Francia)<li>Territorio Antartico Australiano(Australia)<li>Islandia Pedro I o Tierra de la Reina Maud (Noruega)<li>Antartida Chilena(Chile)<li>Marye Byrd (Sin Pertenencia)</ul></td>
+        </tr>
+        <tr>
+            <td bgcolor="PaleGreen"><a href="https://www.exoticca.com/es/blog/2019/07/los-mejores-lugares-de-america-del-sur/"><img src="america.jpg" width="150px" height="180px" ></a></td>
+            <td bgcolor="skyblue"><a href="https://viajar.elperiodico.com/viajeros/20-lugares-bonitos-europa-86920372"><img src="europa.jpg" width="150px" height="180px" ></a></td>
+            <td bgcolor="skyblue"><a href="https://alkilautos.com/blog/general/7-lugares-turisticos-de-asia-para-visitar/"><img src="asia.jpg" width="150px" height="180px" ></a></td>
+            <td bgcolor="skyblue"><a href="https://www.exoticca.com/es/blog/2019/07/los-mejores-lugares-de-america-del-sur/"><img src="africa.jpg" width="150px" height="180px"></a></td>
+            <td bgcolor="skyblue"><a href="https://www.muyinteresante.com/naturaleza/10428.html"><img src="oceania.jpg" width="150px" height="180px" ></a></td>
+            <td bgcolor="skyblue"><a href="https://www.tripadvisor.com.mx/Attractions-g12-Activities-Antarctica.html"><img src="antartida.jpg" width="150px" height="180px"></a></td>
+        </tr>
+    </table>
+
+    </font>
+
+    <HR SIZE="5" COLOR="RED">
+    <marquee behavior="alternate" bgcolor="D8D8D8" scrollamount="20">kEVIN yAMIL sUAREZ gARCIA 2im6</marquee>
+
+</body>
+</html>
